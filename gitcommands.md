@@ -1,4 +1,4 @@
-[HOME](https://qavbox.github.io/cheatsheets]
+[HOME](https://qavbox.github.io/cheatsheets)
 
 ## Command line instructions
 
